@@ -1,0 +1,21 @@
+{
+  "isIndex": true,
+  "account": "alem.near",
+  "name": "AppName",
+  "description": "App description",
+  "linktree": {
+    "website": "github.com/wpdas/alem"
+  },
+  "image": {
+    "ipfs_cid": "bafkreicwzq6dlcynhceovrtslsjja2d76b7ysnjih4qmqlk7atre3w2nay"
+  },
+  "tags": [
+    "alem",
+    "dapp",
+    "near",
+    "bos"
+  ],
+  "options": {
+    "showFallbackSpinner": false
+  }
+}
