@@ -5,10 +5,11 @@
   "repository": "git@github.com:wpdas/create-alem-dapp.git",
   "license": "MIT",
   "scripts": {
-    "start": "alem dev"
+    "start": "alem dev",
+    "build": "alem build"
   },
   "dependencies": {
-    "alem": "0.0.1-alpha.2"
+    "alem": "0.0.1-alpha.3"
   },
   "devDependencies": {
     "@types/styled-components": "^5.1.26",
