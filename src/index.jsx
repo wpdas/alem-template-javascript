@@ -7,7 +7,7 @@ const App = () => {
   const Texts = () => (
     <>
       <p>
-        Edit <span>src/App.tsx</span> and save to reload.
+        Edit <span>src/App.jsx</span> and save to reload.
       </p>
       <a
         className="App-link"
