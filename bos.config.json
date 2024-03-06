@@ -1,13 +1,13 @@
 {
   "isIndex": true,
-  "account": "alem.near",
+  "account": "alem-lib.near",
   "name": "AppName",
   "description": "App description",
   "linktree": {
     "website": "github.com/wpdas/alem"
   },
   "image": {
-    "ipfs_cid": "bafkreicwzq6dlcynhceovrtslsjja2d76b7ysnjih4qmqlk7atre3w2nay"
+    "ipfs_cid": "bafkreicjdgat5xsw7vxbosoyygermawhkfi2by3ovg7c6tumrayn4rimty"
   },
   "tags": [
     "alem",
