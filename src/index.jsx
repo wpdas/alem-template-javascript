@@ -1,8 +1,8 @@
-import { loadFonts } from "alem/theme";
+import { loadExternalStyles } from "alem/api";
 import Spinner from "./components/Spinner";
 
 const App = () => {
-  const fontsLoaded = loadFonts(["https://fonts.cdnfonts.com/css/display"]);
+  const fontsLoaded = loadExternalStyles(["https://fonts.cdnfonts.com/css/display"]);
 
   const Texts = () => (
     <>
