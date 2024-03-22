@@ -1,4 +1,4 @@
-import { loadExternalStyles } from "alem/api";
+import { loadExternalStyles } from "alem";
 import Spinner from "./components/Spinner";
 
 const App = () => {

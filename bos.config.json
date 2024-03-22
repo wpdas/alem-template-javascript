@@ -1,6 +1,7 @@
 {
   "isIndex": true,
-  "account": "alem-lib.near",
+  "mainnetAccount": "alem-lib.near",
+  "testnetAccount": "alem-lib.testnet",
   "name": "AppName",
   "description": "App description",
   "linktree": {
@@ -14,9 +15,5 @@
     "dapp",
     "near",
     "bos"
-  ],
-  "options": {
-    "showFallbackSpinner": false,
-    "maintainRouteWhenDeveloping": true
-  }
+  ]
 }
