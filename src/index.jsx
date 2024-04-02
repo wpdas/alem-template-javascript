@@ -7,14 +7,9 @@ const App = () => {
   const Texts = () => (
     <>
       <p>
-        Edit <span>src/App.jsx</span> and save to reload.
+        Edit <span>src/index.jsx</span> and save to reload.
       </p>
-      <a
-        className="App-link"
-        href="https://near.org/alem-lib.near/widget/Index"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
+      <a className="App-link" href="https://alem.dev" target="_blank" rel="noopener noreferrer">
         Learn Alem
       </a>
     </>
