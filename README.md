@@ -33,7 +33,7 @@ Deploy project to testnet
 
 ## Environment
 
-Use the `.env` file to set up the project's environment vars. The absence of this file means the `NODE_ENV=production`.
+Create and use the `.env` file to set up the project's environment vars. The absence of this file means the `NODE_ENV=production`.
 
 ## Documentation
 
