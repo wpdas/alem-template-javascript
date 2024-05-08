@@ -10,7 +10,7 @@ const App = () => {
         Edit <span>src/index.jsx</span> and save to reload.
       </p>
       <a className="App-link" href="https://alem.dev" target="_blank" rel="noopener noreferrer">
-        Learn Alem
+        Learn Além
       </a>
     </>
   );
